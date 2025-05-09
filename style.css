@@ -5,18 +5,18 @@ header {
 }
 
 nav ul {
-    list-style: none; /* Remove os marcadores da lista */
+    list-style: none; 
     padding: 0;
 }
 
 nav ul li {
-    display: inline; /* Exibe os itens de lista em linha */
-    margin-right: 20px; /* Espaçamento entre os itens */
+    display: inline; 
+    margin-right: 20px; 
 }
 
 nav ul li a {
     color: white;
-    text-decoration: none; /* Remove o sublinhado dos links */
+    text-decoration: none;
 }
 
 main {
